@@ -11,7 +11,7 @@
 - `HTML`
 - `CSS`
 - `JavaScript`
-- Turning web canvases into a Picasso!
+- `Turning web canvases into a Picasso!`
 
 #### Bio:
 - 🚪 Currently residing in St. Louis, MO but I was born and raised in Edmond, OK
