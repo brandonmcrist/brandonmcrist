@@ -19,12 +19,14 @@
 - 💬 Ask me about anything, I am always happy to chat!
 - 📫 Feel free to reach me at: Brandonmcrist@gmail.com
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${brandonmcrist}.${brandonmcrist})
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=brandonmcrist.brandonmcrist)
 
 
 
-
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonmcrist&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonmcrist&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
