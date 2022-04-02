@@ -1,1 +1,11 @@
-Hello! I'm Brandon! I am currently studying Full Stack through FreeCodeCamp's Responsive Web Design program. When I am not coding, I am a geek who loves pretty much anything you can name, such as technology, video games, DnD and Warhammer 40k (Even though I have sadly never played, I just enjoy watching campaigns and lore on YouTube).
+Hello! I'm Brandon! I'm a nerd who is always open to talking about pretty much anything (Bonus points if it's tech, video games, anime, Wuxia light novels, books in general). I am currently learning Full Stack through FreeCodeCamp's programs, which at the time of writing is Basic JavaScript and Applied Visual Design. 
+
+Skills I'm currently learning: 
+
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonmcrist&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
