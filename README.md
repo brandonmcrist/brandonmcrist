@@ -1,6 +1,6 @@
 ### As a wise Jedi once said, "Hello there!"
 
-#### I'm a (soon to be) Full Stack Developer and Full Time Nerd!
+#### I'm a (soon to be) Software Engineer and Full Time Nerd!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/brandonmcrist)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Brandonmcrist)
